@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Curriculum
-permalink: /curriculum/
-slug: curriculum
+title: Experience
+permalink: /experience/
+slug: experience
 ---
 
-# CURRICULUM
+# Work Experience
 
 #### Jul. 2021 - Present
 
