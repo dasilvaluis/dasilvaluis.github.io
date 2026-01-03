@@ -5,7 +5,7 @@ permalink: /contacts/
 slug: contacts
 ---
 
-# CONTACTS
+# Contacts
 
 Github: [github.com/dasilvaluis](https://github.com/dasilvaluis){:target='_blank'}{:onclick="trackEvent('click', 'contact', 'github');"}
 
