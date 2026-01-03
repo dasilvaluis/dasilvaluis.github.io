@@ -7,7 +7,12 @@ slug: curriculum
 
 # CURRICULUM
 
-#### May. 2019 - Present
+#### Jul. 2021 - Present
+
+**Front-end Developer** at [Agile Freaks](https://www.agilefreaks.com/){:target='_blank'}
+
+
+#### May 2019 - May 2021 (2 years)
 
 **Front-end Developer** at [Adidas](https://adidas.com){:target='_blank'}
 
@@ -16,6 +21,8 @@ Working along a SCRUM team to deliver an internal web application for creating m
 * Development in React JS, Redux and Typescript
 * Code reviews, task estimation, user story refinement
 * Conducting interviews for the front-end team
+* Leading the technical aspects of the front-end
+* Onboarding new developers
 
 #### Nov. 2016 - April 2019 (2 yrs 6 mon.)
 
@@ -41,6 +48,6 @@ At Inédito I worked as a single developer with a team of designers to create co
 
 **Summer Intern** at Largestinfo Tunisie
 
-Through the IAESTE programme I had the opportunity to work as a web developer intern in for a publicity company.
+Through the IAESTE student exchange program I had the opportunity to work as a web developer intern in for a publicity company.
 
 My main task was to redesign and develop a new front-end for the company’s web portal.
