@@ -14,7 +14,7 @@ Made with ReactJS and Socket.IO
 
 [Github](https://github.com/luism-s/7-Wonders-Duel){:target='_blank'}
 \\
-Play @ [https://duelo-sete-maravilhas.herokuapp.com/](https://duelo-sete-maravilhas.herokuapp.com/){:target='_blank'}{:onclick="trackEvent('click', 'project', '7-wonders-page');"}
+Play @ [https://seven-wonders-duel.onrender.com/](https://seven-wonders-duel.onrender.com/){:target='_blank'}{:onclick="trackEvent('click', 'project', '7-wonders-page');"}
 
 #### 24 Game
 
