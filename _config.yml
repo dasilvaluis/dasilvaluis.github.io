@@ -35,7 +35,7 @@ sass:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - node_modules
+  - README.md
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
