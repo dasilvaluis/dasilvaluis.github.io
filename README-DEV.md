@@ -23,8 +23,13 @@ $ bundle exec jekyll serve
 
 ## **Assets**
 
+Build assets:
 ````
-$ cd src
 $ npm install
-$ npm run watch
+$ npm run build
+````
+
+Development mode with hot reload:
+````
+$ npm run dev
 ````

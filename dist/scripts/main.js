@@ -1,1 +1,0 @@
-function toggleNavbar(){document.getElementById("navbar").classList.toggle("-mobile-closed")}function trackEvent(e,t,n){gtag("event",e,{event_category:t,event_label:n})}

@@ -13,18 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: luism-s.github.io
-email: luis.m.silva@mail.com
+title: dasilvaluis.github.io
 description: Software Engineer focused on Web Development.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://luism-s.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dasilvaluis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
 
 google_analytics: UA-111711838-1
 
-include: ['_pages']
+include: ["_pages"]
+
+sass:
+  sass_dir: assets/css
+  style: compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -33,12 +36,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - src
-  - gulp
-  - package.json
-  - package-lock.json
-  - yarn.lock
-  - dist/images/sites/
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
